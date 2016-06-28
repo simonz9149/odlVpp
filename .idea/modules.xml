@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/odlvpp-aggregator.iml" filepath="$PROJECT_DIR$/odlvpp-aggregator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/odlvpp-api.iml" filepath="$PROJECT_DIR$/api/odlvpp-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/artifacts/odlvpp-artifacts.iml" filepath="$PROJECT_DIR$/artifacts/odlvpp-artifacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/odlvpp-features.iml" filepath="$PROJECT_DIR$/features/odlvpp-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/impl/odlvpp-impl.iml" filepath="$PROJECT_DIR$/impl/odlvpp-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/it/odlvpp-it.iml" filepath="$PROJECT_DIR$/it/odlvpp-it.iml" />
+      <module fileurl="file://$PROJECT_DIR$/karaf/odlvpp-karaf.iml" filepath="$PROJECT_DIR$/karaf/odlvpp-karaf.iml" />
+    </modules>
+  </component>
+</project>

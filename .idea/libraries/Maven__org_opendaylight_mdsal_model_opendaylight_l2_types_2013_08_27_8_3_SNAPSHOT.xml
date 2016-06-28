@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.opendaylight.mdsal.model:opendaylight-l2-types:2013.08.27.8.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/mdsal/model/opendaylight-l2-types/2013.08.27.8.3-SNAPSHOT/opendaylight-l2-types-2013.08.27.8.3-20160622.160042-19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/mdsal/model/opendaylight-l2-types/2013.08.27.8.3-SNAPSHOT/opendaylight-l2-types-2013.08.27.8.3-20160622.160042-19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/mdsal/model/opendaylight-l2-types/2013.08.27.8.3-SNAPSHOT/opendaylight-l2-types-2013.08.27.8.3-20160622.160042-19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

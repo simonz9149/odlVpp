@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.opendaylight.controller:yang-jmx-generator-plugin:0.4.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/controller/yang-jmx-generator-plugin/0.4.3-SNAPSHOT/yang-jmx-generator-plugin-0.4.3-20160615.073345-18.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/controller/yang-jmx-generator-plugin/0.4.3-SNAPSHOT/yang-jmx-generator-plugin-0.4.3-20160615.073345-18-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/controller/yang-jmx-generator-plugin/0.4.3-SNAPSHOT/yang-jmx-generator-plugin-0.4.3-20160615.073345-18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

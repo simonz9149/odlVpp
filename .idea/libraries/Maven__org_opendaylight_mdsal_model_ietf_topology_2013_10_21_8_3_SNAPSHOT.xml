@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.opendaylight.mdsal.model:ietf-topology:2013.10.21.8.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/mdsal/model/ietf-topology/2013.10.21.8.3-SNAPSHOT/ietf-topology-2013.10.21.8.3-20160622.160027-19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/mdsal/model/ietf-topology/2013.10.21.8.3-SNAPSHOT/ietf-topology-2013.10.21.8.3-20160622.160027-19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/mdsal/model/ietf-topology/2013.10.21.8.3-SNAPSHOT/ietf-topology-2013.10.21.8.3-20160622.160027-19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

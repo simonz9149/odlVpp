@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.opendaylight.controller:shutdown-impl:0.4.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/controller/shutdown-impl/0.4.3-SNAPSHOT/shutdown-impl-0.4.3-20160615.073331-19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/controller/shutdown-impl/0.4.3-SNAPSHOT/shutdown-impl-0.4.3-20160615.073331-19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/controller/shutdown-impl/0.4.3-SNAPSHOT/shutdown-impl-0.4.3-20160615.073331-19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

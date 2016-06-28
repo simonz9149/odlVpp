@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.opendaylight.mdsal.model:ietf-type-util:0.8.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/mdsal/model/ietf-type-util/0.8.3-SNAPSHOT/ietf-type-util-0.8.3-20160622.160033-19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/mdsal/model/ietf-type-util/0.8.3-SNAPSHOT/ietf-type-util-0.8.3-20160622.160033-19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opendaylight/mdsal/model/ietf-type-util/0.8.3-SNAPSHOT/ietf-type-util-0.8.3-20160622.160033-19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

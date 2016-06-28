@@ -1,0 +1,9 @@
+module odlvpp {
+    yang-version 1;
+    namespace "urn:opendaylight:params:xml:ns:yang:odlvpp";
+    prefix "odlvpp";
+
+    revision "2015-01-05" {
+        description "Initial revision of odlvpp model";
+    }
+}
